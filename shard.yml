@@ -1,0 +1,13 @@
+name: precommit-test
+version: 0.1.0
+
+authors:
+  - PenguinOwl <henryjboles@gmail.com>
+
+targets:
+  precommit-test:
+    main: src/precommit-test.cr
+
+crystal: 0.32.0
+
+license: MIT

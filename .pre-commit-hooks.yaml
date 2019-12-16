@@ -1,0 +1,6 @@
+-   id: crystal-test
+    name: Crystal Test Hook
+    description: This hook is for testing crystal compatability.
+    entry: crystal-test
+    language: crystal
+    types: [text]
